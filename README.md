@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Python Developer</h3>
 
 <p align="center">
-🎓 AI & Data Science (AIDS) Student <br>
+🎓 AI & Data Science Student <br>
 💡 Passionate about Python and Full Stack Development <br>
 🚀 Learning • Building • Growing
 </p>
