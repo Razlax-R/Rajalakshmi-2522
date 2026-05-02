@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Razlax</h1>
-<h3 align="center">Aspiring Full Stack Developer (Python)</h3>
+<h3 align="center">Aspiring Python Developer</h3>
 
 <p align="center">
 🎓 AI & Data Science (AIDS) Student <br>
-💡 Passionate about Full Stack Development <br>
+💡 Passionate about Python and Full Stack Development <br>
 🚀 Learning • Building • Growing
 </p>
 
@@ -12,7 +12,7 @@
 ## 🌱 About Me
 - 🎓 Studying **Artificial Intelligence & Data Science**
 - 🐍 Interested in **Python-based Full Stack Development**
-- 🌐 Learning & building with **HTML, CSS & JavaScript**
+- 🌐 Focused on building real world applications and continuously improving problem solving skills
 - 🔥 Love turning ideas into real projects
 
 ---
@@ -31,7 +31,7 @@
 ---
 
 ## 🎯 Goals
-- Become a skilled Full Stack Developer
+- Become a skilled Python Developer
 - Build impactful real-world applications
 - Learn, improve, and grow consistently
 
